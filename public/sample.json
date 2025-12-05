@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "IND vs AUS",
+      "status": "2nd ODI - India won by 3 wickets",
+      "score": [
+        { "inning": "India", "r": 289, "w": 7, "o": 48.2 },
+        { "inning": "Australia", "r": 285, "w": 10, "o": 49.0 }
+      ]
+    },
+    {
+      "name": "PAK vs ENG",
+      "status": "England lead the series 1-0",
+      "score": [
+        { "inning": "England", "r": 310, "w": 9, "o": 50 },
+        { "inning": "Pakistan", "r": 280, "w": 8, "o": 48.4 }
+      ]
+    }
+  ]
+}
