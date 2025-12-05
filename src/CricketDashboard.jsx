@@ -33,7 +33,7 @@ function CricketDashboard() {
 
   return (
   <div className="container">
-    <img src="/public/head_logo.jpg" alt="Cricket Logo" />
+    <img src="/head_logo.jpg" alt="Cricket Logo" />
     <h1 className="title">LIVE CRICKET SCORES</h1>
 
     {matches.length === 0 && <p>No live matches</p>}
